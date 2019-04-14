@@ -31,9 +31,11 @@ Me:
 - [HackerRank](https://www.hackerrank.com/Jarades)
 
 Refs:
-- [OpenAPI Specification](https://swagger.io/specification/v2/)
 - [Chapter 5: Representational State Transfer (REST) - ***Roy Fielding***](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [JSON Hypertext Application Language - HAL](https://tools.ietf.org/html/draft-kelly-json-hal-08)
+- [The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
 - [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 - [4 Maturity Levels of REST API Design](https://blog.restcase.com/4-maturity-levels-of-rest-api-design/)
 - [Setting Up Swagger 2 with a Spring REST API](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
 - [Caching Data with Spring](https://spring.io/guides/gs/caching/)
+- [OpenAPI Specification](https://swagger.io/specification/v2/)
