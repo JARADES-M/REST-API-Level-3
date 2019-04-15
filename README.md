@@ -60,7 +60,7 @@ Me:
 References:
 - [Chapter 5: Representational State Transfer (REST) - ***Roy Fielding***](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [JSON Hypertext Application Language - HAL](https://tools.ietf.org/html/draft-kelly-json-hal-08)
-- [RFC 8259 - JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
+- [RFC 8259 - JSON](https://tools.ietf.org/html/rfc8259)
 - [REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 - [4 Maturity Levels of REST API Design](https://blog.restcase.com/4-maturity-levels-of-rest-api-design/)
 - [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
